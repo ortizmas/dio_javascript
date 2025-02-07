@@ -22,5 +22,7 @@ class Person {
     }
 }
 
-const jose = new Person("José", 70, 1.75);
+
+
+const jose = new Person("José", 63, 1.60);
 console.log(jose.sayIMC()); // Exemplo de uso
